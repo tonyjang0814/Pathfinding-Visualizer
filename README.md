@@ -8,11 +8,11 @@ Thank you!
 ##  HOW TO PLAY WITH IT?
 ###   Version explanation
     -Git version
-        ![alt tag](Pathfinding-Visualizer/src/img/git_img.png)
+        ![alt tag](src/img/git_img.png)
     -Node
-        ![alt tag](Pathfinding-Visualizer/src/img/node_img.png)
+        ![alt tag](src/img/node_img.png)
     -npm
-        ![alt tag](Pathfinding-Visualizer/src/img/npm_img.png)
+        ![alt tag](src/img/npm_img.png)
 
 -Step by step installments
 
