@@ -6,6 +6,7 @@ I hope you whoever playing around my project enjoy the time!
 Thank you!
 
 ##  HOW TO PLAY WITH IT?
+To play around with the project, you will need the following or higher version of tools.
 ###   Version explanation
 -Git version
 
