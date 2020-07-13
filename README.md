@@ -25,13 +25,20 @@ To play around with the project, you will need the following or higher version o
 ##  WHAT IS IN THIS PROJECT
 ###   Features
     -Wall
-        -Colors explantion
+    Walls can be created by dragging mouse. While pathfinding algorithm searches for paths, such walls are
+    ignored as it is considered as "obstacle".
+    
     -Algorithms
+        Dijsktra Algorithm
+        -brief explanation
+            -how does it work
+            -time complexity
+            -worst and best scinario
+        
+        Greedy Breadth First Search.
         -brief explanation
             -how does it work
             -time complexity
             -worst and best scinario
 
-
-
-Thank you!
+##      Visual Demonstration
