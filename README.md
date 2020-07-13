@@ -7,7 +7,8 @@ Thank you!
 
 ##      HOW TO PLAY WITH IT?
 To play around with the project, you will need the following or higher version of tools.
-###     Version explanation
+###     Version explanation (Environment setups)
+You will require following tools.
 1. Git version
 
 ![alt tag](src/img/git_img.png)
@@ -20,7 +21,12 @@ To play around with the project, you will need the following or higher version o
 
 ![alt tag](src/img/npm_img.png)
 
--Step by step installments
+###     Step by step installments
+1. make sure you have satisfied environemnt settings as discussed above.
+2. clone this repositery by typing git clone ???
+3. cd into the repositery and and make sure you are in the right directory or repositery.
+4. Type "npm start" and wait for few seconds until local host page loads up.
+5. Enjoy your time!
 
 ##      WHAT IS IN THIS PROJECT
 ###     Features
