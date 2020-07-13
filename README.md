@@ -4,3 +4,4 @@ You can explore different types of pathfinding algorithms within the
 repositery and play around with it!
 
 Thank you!
+Just checking if linked properly.
