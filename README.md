@@ -6,7 +6,7 @@ I hope you whoever playing around my project enjoy the time!
 Thank you!
 
 ##  HOW TO PLAY WITH IT?
-#   Version explanation
+###   Version explanation
     -Git version
         -![alt tag](pathvisualiser/src/img/git.img)
     -Node
@@ -17,7 +17,7 @@ Thank you!
 -Step by step installments
 
 ##  WHAT IS IN THIS PROJECT
-#   Features
+###   Features
     -Wall
         -Colors explantion
     -Algorithms
