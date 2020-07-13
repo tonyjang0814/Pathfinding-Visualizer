@@ -7,12 +7,17 @@ Thank you!
 
 ##  HOW TO PLAY WITH IT?
 ###   Version explanation
-    -Git version
-        ![alt tag](src/img/git_img.png)
-    -Node
-        ![alt tag](src/img/node_img.png)
-    -npm
-        ![alt tag](src/img/npm_img.png)
+-Git version
+
+![alt tag](src/img/git_img.png)
+
+-Node
+
+![alt tag](src/img/node_img.png)
+        
+-npm
+
+![alt tag](src/img/npm_img.png)
 
 -Step by step installments
 
