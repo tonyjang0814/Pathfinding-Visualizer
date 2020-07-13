@@ -30,15 +30,16 @@ Walls can be created by dragging mouse. While pathfinding algorithm searches for
 ignored as it is considered as "obstacle".
 Both the start and end Nodes(highlighted as blue and red color) can be moved for your choice as well.
 
-[![wall demo](http://img.youtube.com/vi/TfqNCFSJGDI/0.jpg)](http://www.youtube.com/watch?v=TfqNCFSJGDI "wall")
+
+![WALL DEMO](src/img/wall.gif)
 
 2. Pathfinding Algorithms
 
 Dijstra Algorithm
 
 
-[![DIjkstra](http://img.youtube.com/vi/dvPLh9AHf6Q/0.jpg)](http://www.youtube.com/watch?v=dvPLh9AHf6Q "DIjkstra")
+![DIJKSTRA DEMO](src/img/Dijsktra.gif)
 
 Greedy BFS(Best First Search) Algorithm
 
-[![Greedy BFS](http://img.youtube.com/vi/Ytwo5ORxm2Q/0.jpg)](http://www.youtube.com/watch?v=Ytwo5ORxm2Q "Greedy BFS")
+![GREEDY BFS DEMO](src/img/Greedy-BFS.gif)
