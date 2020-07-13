@@ -23,9 +23,9 @@ You will require following tools.
 
 ###     Step by step installments
 1. make sure you have satisfied environemnt settings as discussed above.
-2. clone this repositery by typing git clone ???
+2. clone this repositery by typing >> git clone https://github.com/tonyjang0814/Pathfinding-Visualizer.git <<
 3. cd into the repositery and and make sure you are in the right directory or repositery.
-4. Type "npm start" and wait for few seconds until local host page loads up.
+4. Type >> npm start << and wait for few seconds until local host page loads up.
 5. Enjoy your time!
 
 ##      WHAT IS IN THIS PROJECT
