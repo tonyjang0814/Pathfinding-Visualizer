@@ -8,15 +8,15 @@ Thank you!
 ##  HOW TO PLAY WITH IT?
 To play around with the project, you will need the following or higher version of tools.
 ###   Version explanation
--Git version
+1. Git version
 
 ![alt tag](src/img/git_img.png)
 
--Node
+2. Node
 
 ![alt tag](src/img/node_img.png)
         
--npm
+3. npm
 
 ![alt tag](src/img/npm_img.png)
 
