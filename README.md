@@ -8,7 +8,7 @@ Thank you!
 ##      HOW TO PLAY WITH IT?
 To play around with the project, you will need the following or higher version of tools.
 ###     Version explanation (Environment setups)
-You will require following tools.
+You will require following environment settings.
 1. Git version
 
 ![alt tag](src/img/git_img.png)
@@ -25,11 +25,11 @@ You will require following tools.
 1. make sure you have satisfied environemnt settings as discussed above.
 2. clone this repositery by typing >> git clone https://github.com/tonyjang0814/Pathfinding-Visualizer.git <<
 3. cd into the repositery and and make sure you are in the right directory or repositery.
-4. Type >> npm start << and wait for few seconds until local host page loads up.
+4. Type >> npm start << on terminal and wait for few seconds until local host page loads up.
 5. Enjoy your time!
 
 ##      WHAT IS IN THIS PROJECT
-###     Features
+###     Features (visual demonstrations)
 1. Wall
 
 Walls can be created by dragging mouse. While pathfinding algorithm searches for paths, such walls are
